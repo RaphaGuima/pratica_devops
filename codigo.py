@@ -12,4 +12,4 @@ def gerar_relatorio():
     print("Total de vendas: R$", total)  # Exibe o valor total calculado
 
 # Chamada da função principal para executar o relatório
-gerar_relatorio(
+gerar_relatorio()
